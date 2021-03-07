@@ -1,0 +1,17 @@
+{
+  "name": "json--server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "db": "json-server --watch db.json -p 3131",
+    "db-routes": "json-server --watch db.json -p 3131 --routes routes.json",
+    "tunnel": "ngrok http 3131"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "ngrok": "^3.4.0"
+  }
+}

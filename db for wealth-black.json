@@ -1,0 +1,301 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "category_name": "Flights",
+      "is_active": true,
+      "partners": [
+        {
+          "id": 3,
+          "partner_name": "Centurion Registrars",
+          "partner_email": "admin@astro.com",
+          "short_name": "Centurion",
+          "base_url": "www.centurionregistrars.com",
+          "partner_logo": "",
+          "partner_description": "",
+          "is_channel": false,
+          "partner_code": "Centurion",
+          "enabled_transaction": false,
+          "landing_page": "",
+          "partner_exchange_accounttype": "PARTNER_ACCOUNT",
+          "cscs_account_number": "55",
+          "chn_number": "88",
+          "module_codes": [],
+          "active": true,
+          "selected": true
+        },
+        {
+          "id": 4,
+          "partner_name": "New Partner",
+          "partner_email": "isaiah@sankore.com",
+          "short_name": "Some Partner",
+          "base_url": "https://localhost/wealthblackadmin/",
+          "partner_logo": "",
+          "partner_description": "Descrip",
+          "is_channel": false,
+          "partner_code": "A01",
+          "enabled_transaction": false,
+          "landing_page": "https://localhost/wealthblackadmin/land",
+          "partner_exchange_accounttype": "PARTNER_AND_INVESTOR_ACCOUNT",
+          "cscs_account_number": "CSCS10001",
+          "chn_number": "CHN1001",
+          "module_codes": [],
+          "active": true,
+          "selected": true
+        },
+        {
+          "id": 1,
+          "partner_name": "WealthNG",
+          "partner_email": "info@wealthng.com",
+          "short_name": "WealthNG",
+          "base_url": "https://localhost/wealth",
+          "partner_logo": "https://dp76jxyzopnbo.cloudfront.net/wealthng/static/images/wealth-logo.png",
+          "partner_description": "WealthNG",
+          "is_channel": false,
+          "partner_code": "WealthNG",
+          "enabled_transaction": false,
+          "partner_exchange_accounttype": "PARTNER_ACCOUNT",
+          "cscs_account_number": "678",
+          "chn_number": "1234",
+          "module_codes": [],
+          "active": true,
+          "selected": true
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "category_name": "Jets",
+      "is_active": true,
+      "partners": [
+        {
+          "id": 3,
+          "partner_name": "Centurion Registrars",
+          "partner_email": "admin@astro.com",
+          "short_name": "Centurion",
+          "base_url": "www.centurionregistrars.com",
+          "partner_logo": "",
+          "partner_description": "",
+          "is_channel": false,
+          "partner_code": "Centurion",
+          "enabled_transaction": false,
+          "landing_page": "",
+          "partner_exchange_accounttype": "PARTNER_ACCOUNT",
+          "cscs_account_number": "55",
+          "chn_number": "88",
+          "module_codes": [],
+          "active": true,
+          "selected": true
+        },
+        {
+          "id": 4,
+          "partner_name": "New Partner",
+          "partner_email": "isaiah@sankore.com",
+          "short_name": "Some Partner",
+          "base_url": "https://localhost/wealthblackadmin/",
+          "partner_logo": "",
+          "partner_description": "Descrip",
+          "is_channel": false,
+          "partner_code": "A01",
+          "enabled_transaction": false,
+          "landing_page": "https://localhost/wealthblackadmin/land",
+          "partner_exchange_accounttype": "PARTNER_AND_INVESTOR_ACCOUNT",
+          "cscs_account_number": "CSCS10001",
+          "chn_number": "CHN1001",
+          "module_codes": [],
+          "active": true,
+          "selected": true
+        },
+        {
+          "id": 1,
+          "partner_name": "WealthNG",
+          "partner_email": "info@wealthng.com",
+          "short_name": "WealthNG",
+          "base_url": "https://localhost/wealth",
+          "partner_logo": "https://dp76jxyzopnbo.cloudfront.net/wealthng/static/images/wealth-logo.png",
+          "partner_description": "WealthNG",
+          "is_channel": false,
+          "partner_code": "WealthNG",
+          "enabled_transaction": false,
+          "partner_exchange_accounttype": "PARTNER_ACCOUNT",
+          "cscs_account_number": "678",
+          "chn_number": "1234",
+          "module_codes": [],
+          "active": true,
+          "selected": true
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "category_name": "Aeroplanes",
+      "is_active": true,
+      "partners": [
+        {
+          "id": 3,
+          "partner_name": "Centurion Registrars",
+          "partner_email": "admin@astro.com",
+          "short_name": "Centurion",
+          "base_url": "www.centurionregistrars.com",
+          "partner_logo": "",
+          "partner_description": "",
+          "is_channel": false,
+          "partner_code": "Centurion",
+          "enabled_transaction": false,
+          "landing_page": "",
+          "partner_exchange_accounttype": "PARTNER_ACCOUNT",
+          "cscs_account_number": "55",
+          "chn_number": "88",
+          "module_codes": [],
+          "active": true,
+          "selected": true
+        },
+        {
+          "id": 4,
+          "partner_name": "New Partner",
+          "partner_email": "isaiah@sankore.com",
+          "short_name": "Some Partner",
+          "base_url": "https://localhost/wealthblackadmin/",
+          "partner_logo": "",
+          "partner_description": "Descrip",
+          "is_channel": false,
+          "partner_code": "A01",
+          "enabled_transaction": false,
+          "landing_page": "https://localhost/wealthblackadmin/land",
+          "partner_exchange_accounttype": "PARTNER_AND_INVESTOR_ACCOUNT",
+          "cscs_account_number": "CSCS10001",
+          "chn_number": "CHN1001",
+          "module_codes": [],
+          "active": true,
+          "selected": true
+        },
+        {
+          "id": 1,
+          "partner_name": "WealthNG",
+          "partner_email": "info@wealthng.com",
+          "short_name": "WealthNG",
+          "base_url": "https://localhost/wealth",
+          "partner_logo": "https://dp76jxyzopnbo.cloudfront.net/wealthng/static/images/wealth-logo.png",
+          "partner_description": "WealthNG",
+          "is_channel": false,
+          "partner_code": "WealthNG",
+          "enabled_transaction": false,
+          "partner_exchange_accounttype": "PARTNER_ACCOUNT",
+          "cscs_account_number": "678",
+          "chn_number": "1234",
+          "module_codes": [],
+          "active": true,
+          "selected": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category_name": "Trades",
+      "is_active": true,
+      "partners": [
+        {
+          "id": 3,
+          "partner_name": "Centurion Registrars",
+          "partner_email": "admin@astro.com",
+          "short_name": "Centurion",
+          "base_url": "www.centurionregistrars.com",
+          "partner_logo": "",
+          "partner_description": "",
+          "is_channel": false,
+          "partner_code": "Centurion",
+          "enabled_transaction": false,
+          "landing_page": "",
+          "partner_exchange_accounttype": "PARTNER_ACCOUNT",
+          "cscs_account_number": "55",
+          "chn_number": "88",
+          "module_codes": [],
+          "active": true,
+          "selected": true
+        }
+      ]
+    },
+    {
+      "resolver_action": "save_service",
+      "resolver_name": "serviceResolver",
+      "serviceName": "",
+      "callToAction": "",
+      "category": "",
+      "servicePartners": [],
+      "description": "",
+      "headerImage": "",
+      "serviceImageOne": "",
+      "serviceImageTwo": "",
+      "serviceImageThree": "",
+      "status": false,
+      "formComponents": [],
+      "id": 4
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "active": true,
+      "service_name": "Random",
+      "description": "No description",
+      "call_to_action": "None",
+      "category_id": 1,
+      "header_image_url": "",
+      "partners": [
+        {
+          "id": 1,
+          "partner_name": "",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "partner_name": "",
+          "selected": true
+        }
+      ],
+      "service_image_urls": [
+        ["id", "http://localhost/image1.jpg"],
+        ["id", "http://localhost/image2.jpg"]
+      ],
+      "form_components": [
+        {
+          "id": 1,
+          "label": "Label",
+          "position": 1,
+          "required": true,
+          "place_holder": "Nothing",
+          "max_length": 10,
+          "min_length": 1,
+          "prefix": "",
+          "suffix": "",
+          "on_value": "",
+          "off_value": "",
+          "componentName": "alphanumeric-component",
+          "data_type": "ALPHANUMERIC",
+          "field_type": "TEXT_FIELD",
+          "service_id": "",
+          "active": "",
+          "user_input": ""
+        },
+        {
+          "id": 2,
+          "position": 2,
+          "required": true,
+          "place_holder": "",
+          "max_length": 10,
+          "min_length": 1,
+          "prefix": "",
+          "suffix": "",
+          "on_value": "",
+          "off_value": "",
+          "componentName": "amount-component",
+          "data_type": "NUMERIC",
+          "field_type": "TEXT_FIELD",
+          "service_id": "",
+          "active": "",
+          "user_input": ""
+        }
+      ]
+    }
+  ]
+}

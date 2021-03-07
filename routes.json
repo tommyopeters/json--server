@@ -1,0 +1,5 @@
+{
+  "/users": "/users",
+  "/users/:id/profile": "/users/:id/profile",
+  "/users/:id/slipcard": "/users/:id/slipcard"
+}
